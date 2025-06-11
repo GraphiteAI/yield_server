@@ -1,6 +1,5 @@
 # Validator decentralized backend server
-If you would like to run a Validator on Subnet 43 with your own site and backend, this open-sourced code provides you with most of the code needed to get your backend set up!
-The backend automates proxy wallet creation, monitors validator performance, and ensures rebalancing actions are executed with precision. Designed for scalability and reliability, this service orchestrates the secure, transparent, and efficient operation of validators within a dynamic ecosystem. 
+If you would like to run a Validator on Subnet 43 with your own site and backend, this open-sourced code provides you with most of the code needed to get your backend set up! On top of setting up the environment as provided below, you would also need to implement your own version of the on-chain functions. When fully deployed, this backend automates proxy wallet creation, monitors validator performance, and ensures rebalancing actions are executed with precision. Designed for scalability and reliability, this service orchestrates the secure, transparent, and efficient operation of validators within a dynamic ecosystem. 
 
 
 This guide explains how to set up and run the validator system, including proxy generation, configuration, and database schema. The base template is opensourced and can be found at the repository **yield_server**.
